@@ -1,0 +1,7 @@
+.banner-logistica {
+    background-image: url("../../assets/logisticados.avif");
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 25%;
+}
