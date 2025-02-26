@@ -9,7 +9,7 @@ export function Logistica() {
         <section className="row p-5">
           <div className="col-12 col-md-6">
             <h3>Logistica</h3>
-            <img src="../../../src/assets/logistica.jpg" alt="mascota" className="img-fluid" />
+            <img src="../../../src/assets/proyecto.png" alt="mascota" className="img-fluid" />
           </div>
           <div className="col-12 col-md-6 align-self-center shadow p-5">
             <p>

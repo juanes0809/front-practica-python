@@ -9,7 +9,7 @@ export function Home() {
         <section className="row p-5">
           <div className="col-12 col-md-6">
             <h3>ProveedorAPP</h3>
-            <img src="../../../src/assets/images.jpg" alt="mascota" className="img-fluid"/>
+            <img src="../../../src/assets/3-robot.jpg" alt="mascota" className="img-fluid"/>
           </div>
           <div className="col-12 col-md-6 align-self-center shadow p-5">
             <p>
